@@ -5,7 +5,7 @@ This is the second project from Brad Traversy's
 [VUE Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs) which can be found on YouTube.
 
 [VUE Installation Instructions](https://cli.vuejs.org/guide/installation.html)
-I utilized the cdn version of vue@3.0.5.
+Installed the cli version globally.
 
 [Random User Generator CodePen Code](https://codepen.io/bradtraversy/pen/LYbzJjK)
 Code was provided by the instructor.
